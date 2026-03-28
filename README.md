@@ -11,17 +11,17 @@
 
 ---
 
-<h2 align="center" style="color:white;">🔐 About Me</h2>
+<h2 align="center">🔐 About Me</h2>
 
 <div align="center">
-<p align="center" style="color:white; font-size:16px; max-width:600px;">
+<p align="center">
 🛡️ Cybersecurity professional specializing in <b>penetration testing</b>, <b>security assessments</b>, and <b>phishing simulations</b><br><br>
 ⚔️ Building offensive security tools and training infrastructure for ethical hacking.
 </p>
 </div>
 
 <div align="center">
-<table style="color:white;">
+<table>
   <tr>
     <td>💭</td>
     <td><b>Currently working on</b></td>
@@ -52,7 +52,7 @@
 
 ---
 
-<h3 align="center" style="color:white;">⚙️ Tools & Technologies</h3>
+<h3 align="center">⚙️ Tools & Technologies</h3>
 
 <div align="center">
 
@@ -69,18 +69,18 @@
 
 ---
 
-<h3 align="center" style="color:white;">🔨 Notable Projects</h3>
+<h3 align="center">🔨 Notable Projects</h3>
 
 <div align="center">
-<table style="color:white;">
+<table>
   <tr>
     <td>🎯</td>
-    <td><b>OPC UA Packet Sniffer</b></td>
+    <td><b><a href="https://github.com/d3vn0mi/opcua-sniffer">OPC UA Packet Sniffer</a></b></td>
     <td>Network monitoring tool with enhanced logging & verbosity controls</td>
   </tr>
   <tr>
     <td>🔓</td>
-    <td><b>EzCME</b></td>
+    <td><b><a href="https://github.com/d3vn0mi/EzCME">EzCME</a></b></td>
     <td>CrackMapExec output processor for efficient credential analysis</td>
   </tr>
   <tr>
@@ -95,40 +95,55 @@
   </tr>
   <tr>
     <td>🗡️</td>
-    <td><b>Ryo Tenkai</b></td>
-    <td>Advanced security tooling and automation framework</td>
+    <td><b><a href="https://github.com/d3vn0mi/RyoTenkai">Ryo Tenkai</a></b></td>
+    <td>RPC client for MSF RPC server with security automation</td>
   </tr>
 </table>
 </div>
 
 ---
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-seven.vercel.app/api?username=d3vn0mi&show_icons=true&count_private=true&theme=transparent&title_color=dc143c&icon_color=dc143c&text_color=ffffff">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-six-seven.vercel.app/api?username=d3vn0mi&show_icons=true&count_private=true&theme=default">
-    <img alt="GitHub Stats" src="https://github-readme-stats-six-seven.vercel.app/api?username=d3vn0mi&show_icons=true&count_private=true&theme=default" height="200px">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=d3vn0mi&layout=compact&langs_count=8&theme=transparent&title_color=dc143c&text_color=ffffff">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=d3vn0mi&layout=compact&langs_count=8&theme=default">
-    <img alt="Top Languages" src="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=d3vn0mi&layout=compact&langs_count=8&theme=default" height="200px">
-  </picture>
+<div align="center">
+<table>
+  <tr>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-seven.vercel.app/api?username=d3vn0mi&show_icons=true&count_private=true&theme=transparent&title_color=dc143c&icon_color=dc143c&text_color=ffffff">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-six-seven.vercel.app/api?username=d3vn0mi&show_icons=true&count_private=true&theme=default">
+        <img alt="GitHub Stats" src="https://github-readme-stats-six-seven.vercel.app/api?username=d3vn0mi&show_icons=true&count_private=true&theme=default" height="200px">
+      </picture>
+    </td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=d3vn0mi&layout=compact&langs_count=8&theme=transparent&title_color=dc143c&text_color=ffffff">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=d3vn0mi&layout=compact&langs_count=8&theme=default">
+        <img alt="Top Languages" src="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=d3vn0mi&layout=compact&langs_count=8&theme=default" height="200px">
+      </picture>
+    </td>
+  </tr>
+</table>
 </div>
 
 <div align="center">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=d3vn0mi&theme=transparent&ring=dc143c&fire=dc143c&currStreakLabel=dc143c" alt="GitHub Streak" height="200px"/>
+  <img src="https://streak-stats.demolab.com/?user=d3vn0mi&theme=transparent&ring=dc143c&fire=dc143c&currStreakLabel=dc143c" alt="GitHub Streak" height="200px"/>
+</div>
+
+<div align="center">
+  <br>
+  <a href="https://github.com/d3vn0mi">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=d3vn0mi&theme=redical&bg_color=00000000&color=dc143c&line=dc143c&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" width="95%"/>
+  </a>
 </div>
 
 ---
 
-<h3 align="center" style="color:white;">
+<h3 align="center">
   🔐 Securing Systems. Testing Defenses. Building Tools.
 </h3>
 
-<p align="center" style="color:#888;">
+<p align="center">
 <i>All security research and testing is conducted in authorized environments with proper permissions.</i>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:dc143c,100:8b0000&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:dc143c,100:8b0000&height=120&section=footer" alt="footer"/>
