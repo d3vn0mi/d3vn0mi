@@ -6,7 +6,9 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/d3vn0mi?style=for-the-badge&color=dc143c&label=Followers)](https://github.com/d3vn0mi?tab=followers)
 ![Profile Views](https://komarev.com/ghpvc/?username=d3vn0mi&style=for-the-badge&color=dc143c&labelColor=0d1117&label=Profile+Views)
+[![Blog](https://img.shields.io/badge/d3vn0mi.com-0d1117?style=for-the-badge&logo=ghost&logoColor=dc143c&labelColor=0d1117)](https://d3vn0mi.com)
 [![Portfolio](https://img.shields.io/badge/isomarakis.com-dc143c?style=for-the-badge&logo=astro&logoColor=white)](https://isomarakis.com)
+[![HAT](https://img.shields.io/badge/hackingallthethings.com-8b0000?style=for-the-badge&logo=hackaday&logoColor=white)](https://hackingallthethings.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jason-somarakis-493474100)
 
 </div>
@@ -21,7 +23,8 @@
 ⚔️ Offensive security and adversary emulation across <b>energy, space, OT/ICS, and critical-infrastructure</b> systems<br><br>
 🤖 Increasingly building <b>autonomous agent systems</b>: multi-agent runtimes, agentic pentest tooling, and portable Agent Skills<br><br>
 🔎 Security tooling, compliance auditing, CVE research, and training infrastructure for ethical hacking<br><br>
-🌐 More at <a href="https://isomarakis.com"><b>isomarakis.com</b></a>
+✍️ I write up pentesting, CTFs, and security automation at <a href="https://d3vn0mi.com"><b>d3vn0mi.com</b></a><br><br>
+🌐 Professional profile at <a href="https://isomarakis.com"><b>isomarakis.com</b></a> · threat intel at <a href="https://hackingallthethings.com"><b>hackingallthethings.com</b></a>
 </p>
 </div>
 
@@ -30,7 +33,7 @@
   <tr>
     <td>💭</td>
     <td><b>Currently working on</b></td>
-    <td>SIERA (AI agent orchestrator) &amp; HackingAllTheThings (threat intel platform)</td>
+    <td>SIERA (AI agent orchestrator) &amp; <a href="https://hackingallthethings.com">HackingAllTheThings</a> (threat intel platform)</td>
   </tr>
   <tr>
     <td>🎯</td>
@@ -66,11 +69,11 @@
     <td>A personal AI operations platform. A local multi-agent runtime (~18 agents, each with its own persona, scoped toolset, and skills; 26 tool plugins) coordinated behind a voice-driven <b>Next.js 15 / React 19</b> heads-up display, backed by an Obsidian knowledge vault. Loopback-only, fully self-hosted.</td>
   </tr>
   <tr>
-    <td>🌐<br><b>HackingAllTheThings</b></td>
+    <td>🌐<br><b><a href="https://hackingallthethings.com">HackingAllTheThings</a></b><br><sub>live ↗</sub></td>
     <td>Self-hosted cyber threat-intelligence platform aggregating <b>30+ open-source feeds</b> — security news, NVD CVEs, ExploitDB / CISA KEV, dark web, MITRE ATT&amp;CK mapping — with a live 3D attack globe. <b>FastAPI + React</b> across 9 Docker services, with OAuth2 SSO and RBAC.</td>
   </tr>
 </table>
-<sub><i>Both are private repositories — happy to walk through the architecture on request.</i></sub>
+<sub><i>HAT is live at <a href="https://hackingallthethings.com">hackingallthethings.com</a>. Source for both is private — happy to walk through the architecture on request.</i></sub>
 </div>
 
 ---
