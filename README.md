@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:dc143c,100:8b0000&text=Hi,%20I'm%20D3vn0mi&fontColor=ffffff&desc=Iason%20Somarakis%20•%20Senior%20Penetration%20Tester&descAlign=50&fontAlign=50&fontAlignY=45" width="100%" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:dc143c,100:8b0000&text=%24%20whoami%20%E2%86%92%20d3vn0mi&fontColor=ffffff&desc=Iason%20Somarakis%20%E2%80%A2%20Senior%20Penetration%20Tester&descAlign=50&fontAlign=50&fontAlignY=40&descAlignY=58" width="100%" alt="header"/>
 </p>
 
 <div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/d3vn0mi?style=for-the-badge&color=dc143c&label=Followers)](https://github.com/d3vn0mi?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/d3vn0mi?style=for-the-badge&color=dc143c&labelColor=0d1117&label=Followers)](https://github.com/d3vn0mi?tab=followers)
 ![Profile Views](https://komarev.com/ghpvc/?username=d3vn0mi&style=for-the-badge&color=dc143c&labelColor=0d1117&label=Profile+Views)
 [![Blog](https://img.shields.io/badge/d3vn0mi.com-0d1117?style=for-the-badge&logo=ghost&logoColor=dc143c&labelColor=0d1117)](https://d3vn0mi.com)
 [![Portfolio](https://img.shields.io/badge/isomarakis.com-dc143c?style=for-the-badge&logo=astro&logoColor=white)](https://isomarakis.com)
@@ -13,7 +13,25 @@
 
 </div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=DC143C&center=true&vCenter=true&width=640&lines=Senior+Penetration+Tester+%E2%80%A2+Red+Teamer;Energy+%E2%80%A2+Space+%E2%80%A2+OT%2FICS+%E2%80%A2+Critical+Infra;Now+building+autonomous+agent+systems;It's+not+a+bug%2C+it's+an+unauthorized+feature" alt="typing"/>
+</div>
+
 ---
+
+## `~/about_me.sh`
+
+```bash
+#!/usr/bin/env bash
+# run at your own risk 😈
+
+whoami            # iason "d3vn0mi" somarakis — senior penetration tester
+location          # Crete, Greece 🇬🇷
+focus             # offensive security + adversary emulation
+sectors           # energy, space, OT/ICS, critical infrastructure
+now_building      # autonomous multi-agent systems & agentic pentest tooling
+writes_at         # d3vn0mi.com  (pentesting, CTFs, security automation)
+```
 
 <h2 align="center">🔐 About Me</h2>
 
@@ -82,18 +100,16 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,typescript,bash,powershell,fastapi,react,nextjs,docker,ansible,linux,postgres,redis&theme=dark" alt="skills"/>
+
+<br/><br/>
+
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 </div>
 
@@ -184,36 +200,31 @@
 ---
 
 <div align="center">
+
+### 📊 The receipts
+
 <table>
   <tr>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-seven.vercel.app/api?username=d3vn0mi&show_icons=true&count_private=true&theme=transparent&title_color=dc143c&icon_color=dc143c&text_color=ffffff">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-six-seven.vercel.app/api?username=d3vn0mi&show_icons=true&count_private=true&theme=default">
-        <img alt="GitHub Stats" src="https://github-readme-stats-six-seven.vercel.app/api?username=d3vn0mi&show_icons=true&count_private=true&theme=default" height="200px">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=d3vn0mi&show_icons=true&count_private=true&hide_border=true&theme=transparent&title_color=dc143c&icon_color=dc143c&text_color=c9d1d9&bg_color=00000000">
+        <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=d3vn0mi&show_icons=true&count_private=true&hide_border=true&title_color=dc143c&icon_color=dc143c" height="180px">
       </picture>
     </td>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=d3vn0mi&layout=compact&langs_count=8&theme=transparent&title_color=dc143c&text_color=ffffff">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=d3vn0mi&layout=compact&langs_count=8&theme=default">
-        <img alt="Top Languages" src="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=d3vn0mi&layout=compact&langs_count=8&theme=default" height="200px">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=d3vn0mi&layout=compact&langs_count=8&hide_border=true&theme=transparent&title_color=dc143c&text_color=c9d1d9&bg_color=00000000">
+        <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3vn0mi&layout=compact&langs_count=8&hide_border=true&title_color=dc143c" height="180px">
       </picture>
     </td>
   </tr>
 </table>
-</div>
 
-<div align="center">
-  <br>
-  <img src="https://streak-stats.demolab.com/?user=d3vn0mi&theme=transparent&ring=dc143c&fire=dc143c&currStreakLabel=dc143c" alt="GitHub Streak" height="200px"/>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=d3vn0mi&hide_border=true&background=00000000&ring=dc143c&fire=dc143c&currStreakLabel=dc143c&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dayNums=8b949e">
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=d3vn0mi&hide_border=true&ring=dc143c&fire=dc143c&currStreakLabel=dc143c" height="180px"/>
+</picture>
 
-<div align="center">
-  <br>
-  <a href="https://github.com/d3vn0mi">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=d3vn0mi&theme=redical&bg_color=00000000&color=dc143c&line=dc143c&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" width="95%"/>
-  </a>
 </div>
 
 ---
@@ -223,7 +234,8 @@
 </h3>
 
 <p align="center">
-<i>All security research and testing is conducted in authorized environments with proper permissions.</i>
+<i>All security research and testing is conducted in authorized environments with proper permissions.<br/>
+No systems were harmed without a signed scope. 📝</i>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:dc143c,100:8b0000&height=120&section=footer" alt="footer"/>
