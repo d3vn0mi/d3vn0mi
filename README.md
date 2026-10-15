@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:dc143c,100:8b0000&text=%24%20whoami%20%E2%86%92%20d3vn0mi&fontColor=ffffff&desc=Iason%20Somarakis%20%E2%80%A2%20Senior%20Penetration%20Tester&descAlign=50&fontAlign=50&fontAlignY=40&descAlignY=58" width="100%" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:dc143c,100:8b0000&text=%24%20whoami%20%E2%86%92%20d3vn0mi&fontColor=ffffff&desc=Iason%20Somarakis%20%E2%80%A2%20Penetration%20Testing%20%26%20AI%20Security&descAlign=50&fontAlign=50&fontAlignY=40&descAlignY=58" width="100%" alt="header"/>
 </p>
 
 <div align="center">
@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=DC143C&center=true&vCenter=true&width=640&lines=Senior+Penetration+Tester+%E2%80%A2+Red+Teamer;Energy+%E2%80%A2+Space+%E2%80%A2+OT%2FICS+%E2%80%A2+Critical+Infra;Now+building+autonomous+agent+systems;It's+not+a+bug%2C+it's+an+unauthorized+feature" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=DC143C&center=true&vCenter=true&width=640&lines=Senior+Penetration+Tester+%E2%80%A2+Red+Teamer;Energy+%E2%80%A2+Space+%E2%80%A2+OT%2FICS+%E2%80%A2+Critical+Infra;AI+%2F+LLM+Security+%E2%80%A2+Agentic+Red+Teaming;Now+building+autonomous+agent+systems;It's+not+a+bug%2C+it's+an+unauthorized+feature" alt="typing"/>
 </div>
 
 ---
@@ -29,6 +29,7 @@ whoami            # iason "d3vn0mi" somarakis — senior penetration tester
 location          # Crete, Greece 🇬🇷
 focus             # offensive security + adversary emulation
 sectors           # energy, space, OT/ICS, critical infrastructure
+ai_security       # LLM/agent red teaming, prompt injection, model & data poisoning
 now_building      # autonomous multi-agent systems & agentic pentest tooling
 writes_at         # d3vn0mi.com  (pentesting, CTFs, security automation)
 ```
@@ -40,6 +41,7 @@ writes_at         # d3vn0mi.com  (pentesting, CTFs, security automation)
 🛡️ I'm <b>Iason (Jason) Somarakis</b> — Senior Penetration Tester based in <b>Crete, Greece</b><br><br>
 ⚔️ Offensive security and adversary emulation across <b>energy, space, OT/ICS, and critical-infrastructure</b> systems<br><br>
 🤖 Increasingly building <b>autonomous agent systems</b>: multi-agent runtimes, agentic pentest tooling, and portable Agent Skills<br><br>
+🧪 <b>AI / LLM security</b>: red-teaming agents and MCP servers, prompt injection, and model &amp; data-poisoning research<br><br>
 🔎 Security tooling, compliance auditing, CVE research, and training infrastructure for ethical hacking<br><br>
 ✍️ I write up pentesting, CTFs, and security automation at <a href="https://d3vn0mi.com"><b>d3vn0mi.com</b></a><br><br>
 🌐 Professional profile at <a href="https://isomarakis.com"><b>isomarakis.com</b></a> · threat intel at <a href="https://hackingallthethings.com"><b>hackingallthethings.com</b></a>
@@ -56,7 +58,7 @@ writes_at         # d3vn0mi.com  (pentesting, CTFs, security automation)
   <tr>
     <td>🎯</td>
     <td><b>Specializing in</b></td>
-    <td>Penetration Testing, Security Automation, Compliance Auditing, Agentic Systems</td>
+    <td>Penetration Testing, AI/LLM Security, Security Automation, Compliance Auditing, Agentic Systems</td>
   </tr>
   <tr>
     <td>🔧</td>
@@ -207,8 +209,8 @@ writes_at         # d3vn0mi.com  (pentesting, CTFs, security automation)
   <tr>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=d3vn0mi&show_icons=true&count_private=true&hide_border=true&theme=transparent&title_color=dc143c&icon_color=dc143c&text_color=c9d1d9&bg_color=00000000">
-        <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=d3vn0mi&show_icons=true&count_private=true&hide_border=true&title_color=dc143c&icon_color=dc143c" height="180px">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=d3vn0mi&show_icons=true&count_private=true&hide_border=true&theme=transparent&title_color=dc143c&icon_color=dc143c&text_color=c9d1d9&bg_color=00000000&cache_seconds=86400">
+        <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=d3vn0mi&show_icons=true&count_private=true&hide_border=true&title_color=dc143c&icon_color=dc143c&cache_seconds=86400" height="180px">
       </picture>
     </td>
     <td>
